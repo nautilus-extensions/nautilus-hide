@@ -15,8 +15,8 @@
   <a href="https://hosted.weblate.org/engage/nautilus-hide">
     <img alt="Translation status" src="https://hosted.weblate.org/widgets/nautilus-hide/-/svg-badge.svg"/>
   </a>
-  <a href="https://github.com/nautilus-hide/nautilus-hide/actions/workflows/ci.yml">
-    <img alt="CI status" src="https://github.com/nautilus-hide/nautilus-hide/actions/workflows/ci.yml/badge.svg"/>
+  <a href="https://github.com/nautilus-extensions/nautilus-hide/actions/workflows/ci.yml">
+    <img alt="CI status" src="https://github.com/nautilus-extensions/nautilus-hide/actions/workflows/ci.yml/badge.svg"/>
   </a>
   <a href="https://repology.org/project/nautilus-hide/versions">
     <img alt="Packaging status" src="https://repology.org/badge/tiny-repos/nautilus-hide.svg">
@@ -116,7 +116,7 @@ The following packages are required to build nautilus-hide:
 ##### Global installation
 
 ```shell
-git clone https://github.com/nautilus-hide/nautilus-hide.git
+git clone https://github.com/nautilus-extensions/nautilus-hide.git
 cd nautilus-hide
 meson builddir --prefix=/usr/local
 sudo ninja -C builddir install
@@ -125,7 +125,7 @@ sudo ninja -C builddir install
 ##### Local build (for testing and development purposes)
 
 ```shell
-git clone https://github.com/nautilus-hide/nautilus-hide.git
+git clone https://github.com/nautilus-extensions/nautilus-hide.git
 cd nautilus-hide
 ./install.sh
 ```
@@ -149,7 +149,7 @@ or think you can improve a translation, you can use the [Weblate](https://hosted
 
 ## ✨️ Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=nautilus-hide/nautilus-hide)](https://github.com/nautilus-hide/nautilus-hide/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=nautilus-hide/nautilus-hide)](https://github.com/nautilus-extensions/nautilus-hide/graphs/contributors)
 
 
 ## 💝 Acknowledgment
